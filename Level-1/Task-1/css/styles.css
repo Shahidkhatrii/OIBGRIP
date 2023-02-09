@@ -1,0 +1,219 @@
+body{
+    margin: auto;
+    font-size: 22px;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.div1 {
+    background-image: url('bg-header-desktop.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 7%;
+    width: auto;
+    text-align: center;
+}
+.div2 {
+    margin-top: 30px;
+}
+.column {
+    float: left;
+    width: 50%;
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+
+.img1 {
+    display: block;
+    margin-left: 20%;
+    width: 75%;
+}
+
+.para {
+    margin-left: 33%;
+    margin-right: 33%;
+    color:  hsl(201, 11%, 66%);
+    font-size: 12px;
+    margin-bottom: 3%;
+}
+
+.heading2 {
+    margin-top: 7%;
+    margin-bottom: 0;
+}
+
+.heading3 {
+    margin-bottom: 0;
+}
+
+.btnios {
+    color: white;
+    border: 0;
+    border-radius: 20px 20px;
+    background-color: hsl(171, 66%, 44%);
+    padding: 10px 20px;
+    
+}
+
+.btnmac{
+    color: white;
+    border: 0;
+    border-radius: 20px 20px;
+    background-color:hsl(233, 100%, 69%);
+    padding: 10px 20px;
+}
+
+.paral {
+    color:  hsl(201, 11%, 66%);
+    font-size: 12px;
+    margin-bottom: 10%;
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-right: 30%;
+    
+}
+
+.heading1 {
+    margin-bottom: 0;
+    margin-left: 10%;
+}
+
+.head2 {
+    margin-bottom: 0;
+}
+
+.div3 {
+
+    margin-top: 39%;
+   
+    width: auto;
+
+    text-align: center;
+}
+
+.device {
+    width: 50%;
+}
+
+.div4 {
+    margin-top: 5%;
+}
+
+.clm1 {
+    float: left;
+    text-align: center;
+    width: 20%;
+    margin-left: 18%;
+    
+}
+
+.clm2 {
+    float: left;
+    text-align: center;
+    width: 20%;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+}
+
+.clm3 {
+    float: left;
+    text-align: center;
+    width: 20%;
+    margin-right: 18%;
+    margin-bottom: 10%;
+}
+
+.parah {
+    color:  hsl(201, 11%, 66%);
+    font-size: 12px;
+    margin-bottom: 3%;
+    margin-bottom: 5%;
+}
+
+.blacklists {
+    margin-top: 20px;
+}
+.div5 {
+    margin-top: 20%; 
+}
+.clmn1 {
+   width: 12%;
+   float: left;
+   margin-left: 15%;
+   margin-right: 2.5%;
+}
+.clmn2 {
+    width: 12%;
+    float: left;
+    margin-right: 2.5%;
+}
+
+.clmn3 {
+    width: 12%;
+    float: left;
+    margin-right: 2.5%;
+}
+
+.clmn4 {
+    width: 12%;
+    float: left;
+    margin-right: 2.5%;
+}
+
+.clmn5 {
+    width: 12%;
+    float: left;
+    margin-right: 15%;
+    margin-bottom: 10%;
+}
+
+.logoimg {
+    width: 80%;
+    margin-bottom: 10%;
+}
+
+.div6 {
+    width: auto;
+    text-align: center;
+}
+footer {
+    height: 200px;
+    background-color: hsl(201, 41%, 93%);
+    margin-top: 10%;
+}
+
+.c1 {
+    float: left;
+    width: auto;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+
+.c2 {
+    float: left;
+    width: auto;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.c3 {
+    float: left;
+    width: auto;
+    margin-right: 5%;
+}
+
+.c4 {
+    float: left;
+    width: auto;
+    margin-right: 10%;
+}
+
+.bottom {
+    margin-top: 2%;
+    float: left;
+    width: auto;
+}
+
+.footpara {
+    font-size: 15px;
+}
